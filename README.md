@@ -5,4 +5,4 @@ A simple alarm clock GUI project that I worked on to improve coding habits,impro
 
 Collaborators
 - [Shivam Goyal](https://github.com/ShivamGoyal03/)
-[Ashutosh Gairola](https://github.com/ashutosh-gairola)
+- [Ashutosh Gairola](https://github.com/ashutosh-gairola)
